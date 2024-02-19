@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/kimnaewoo-seach-pj/static/css/main.f15c5110.css",
-    "main.js": "/kimnaewoo-seach-pj/static/js/main.eb9adae2.js",
-    "index.html": "/kimnaewoo-seach-pj/index.html",
-    "main.f15c5110.css.map": "/kimnaewoo-seach-pj/static/css/main.f15c5110.css.map",
-    "main.eb9adae2.js.map": "/kimnaewoo-seach-pj/static/js/main.eb9adae2.js.map"
+    "main.css": "/static/css/main.92bc9af8.css",
+    "main.js": "/static/js/main.0cac9959.js",
+    "index.html": "/index.html",
+    "main.92bc9af8.css.map": "/static/css/main.92bc9af8.css.map",
+    "main.0cac9959.js.map": "/static/js/main.0cac9959.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15c5110.css",
-    "static/js/main.eb9adae2.js"
+    "static/css/main.92bc9af8.css",
+    "static/js/main.0cac9959.js"
   ]
 }
