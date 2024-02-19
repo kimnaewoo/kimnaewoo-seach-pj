@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.92bc9af8.css",
-    "main.js": "/static/js/main.0cac9959.js",
-    "index.html": "/index.html",
-    "main.92bc9af8.css.map": "/static/css/main.92bc9af8.css.map",
-    "main.0cac9959.js.map": "/static/js/main.0cac9959.js.map"
+    "main.css": "/kimnaewoo-seach-pj/static/css/main.92bc9af8.css",
+    "main.js": "/kimnaewoo-seach-pj/static/js/main.0cac9959.js",
+    "index.html": "/kimnaewoo-seach-pj/index.html",
+    "main.92bc9af8.css.map": "/kimnaewoo-seach-pj/static/css/main.92bc9af8.css.map",
+    "main.0cac9959.js.map": "/kimnaewoo-seach-pj/static/js/main.0cac9959.js.map"
   },
   "entrypoints": [
     "static/css/main.92bc9af8.css",
